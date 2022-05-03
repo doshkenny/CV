@@ -6,9 +6,10 @@
   - [Email](oladosukehinde@outlook.com)
   - [LinkedIn](https://www.linkedin.com/in/kehinde-oladosu-omotayo)
   - [Portfolio Website](https://doshkenny.github.io/portfolio_website.github.io/)
+  - [Tableau](https://public.tableau.com/app/profile/kehinde.oladosu)
   - Cell: (+234)8099788714 
 
-**Data Analysis, People Analytics**
+**Professional Summary**
 
 A Management professional passionate about Solving Business problems, 
 as a result I have successfully been able to deploy various analytics 
@@ -28,7 +29,7 @@ effective in querying and solving business problems.
 ●	Leadership Skills\
 ●	Business Acumen
 
-**Data Analyst/ People Analyst	July 2018 – Present
+**Data Analyst/ People Analyst	July 2018 – Present\
 Deepdrill Oilfield Services Overseas Limited	Lagos State, Nigeria**
 - Leveraged on my PowerBI and Excel skills to review, analyze, develop KPI structure and appraise the payroll for different department resulting in a boost in the organizations revenue by 10% 
 -	Effectively collaborated with the project team by providing and interpreting data all through the project lifecycle which was used to establish budgets and make informed investment decisions resulting in 5% decrease in the project cost.
@@ -54,18 +55,4 @@ Volunteer	August 2016
 Research committee on Environmental Agencies in Lagos state and their Impact on Local Economic Development.
 Team Lead	April 2016
 Faculty of Social Sciences Sports committee	University of Lagos
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
