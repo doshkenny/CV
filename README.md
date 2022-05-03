@@ -3,9 +3,9 @@
 ## Data & Business Analyst
 
   
-  - Email: oladosukehinde@outlook.com
-  - LinkedIn: https://www.linkedin.com/in/kehinde-oladosu-omotayo
-  - Website: https://doshkenny.github.io/portfolio_website.github.io/
+  - [Email](oladosukehinde@outlook.com)
+  - [LinkedIn](https://www.linkedin.com/in/kehinde-oladosu-omotayo)
+  - [Portfolio Website](https://doshkenny.github.io/portfolio_website.github.io/)
   - Cell: (+234)8099788714 
 
 **Data Analysis, People Analytics**
@@ -19,7 +19,7 @@ effective in querying and solving business problems.
 **CORE COMPETENCIES AND SKILLS**
 
 ●	Python for Data Analysis\
-●	Data Viz with PowerBI & Tableau\
+●	Data Visualization with PowerBI & Tableau\
 ●	Database Query using SQL\
 ●	Project Management\
 ●	Collaboration and Teamwork Skills\
