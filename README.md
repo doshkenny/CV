@@ -1,12 +1,15 @@
 # KEHINDE OMOTAYO OLADOSU
 
-	- Cell: (+234)8099788714 
-  - Email:oladosukehinde@outlook.com
-	- LinkedIn: https://www.linkedin.com/in/kehinde-oladosu-omotayo
-  - Website: https://doshkenny.github.io/portfolio_website.github.io/
+## Data & Business Analyst
 
-**MANAGEMENT**
-**Administration, Data Analysis, People Analytics**	
+  
+  - Email: oladosukehinde@outlook.com
+  - LinkedIn: https://www.linkedin.com/in/kehinde-oladosu-omotayo
+  - Website: https://doshkenny.github.io/portfolio_website.github.io/
+  - Cell: (+234)8099788714 
+
+**Data Analysis, People Analytics**
+
 A Management professional passionate about Solving Business problems, 
 as a result I have successfully been able to deploy various analytics 
 tools (such as Power BI and Microsoft Excel) which has proven to be 
@@ -14,6 +17,7 @@ effective in querying and solving business problems.
 
 
 **CORE COMPETENCIES AND SKILLS**
+
 ●	Python for Data Analysis\
 ●	Data Viz with PowerBI & Tableau\
 ●	Database Query using SQL\
@@ -32,12 +36,14 @@ Deepdrill Oilfield Services Overseas Limited	Lagos State, Nigeria**
 -	Analyzed financial statement to build financial models for accurate revenue and cost forecasting, then designed a periodic reporting system that further informed key business decisions.
 -	Enhanced communication between project stakeholders by providing strong communication channel between the organization and the client, leveraging on my project presentation/reporting skills.
 
-**EDUCATION**\
-B. Sc. in Economics	August 2012 -November 2016
-University of Lagos.	Lagos State, Nigeria
+**EDUCATION**
+
+B. Sc. in Economics  -	August 2012 -November 2016
+University of Lagos. -	Lagos State, Nigeria
  
 Business Management Certificate	January 24 – May 8 2022 European Business University
-Master Project Manager (MPM)		         March 2018
+
+Master Project Manager (MPM) - March 2018
 International Project Management Academy Associate of the International Project Management Academy (AIPMA)
 
 Co-Lead DataHome (A community of data analyst)	January 2022 - till date
